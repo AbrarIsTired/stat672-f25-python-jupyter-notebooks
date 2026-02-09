@@ -16,7 +16,7 @@ This repository contains Jupyter notebooks for various topics in Python:
 - **assignments/**: Individual module assignments covering core Python concepts and data analysis
 
 ## Technologies
-- Python 3.x
+- Python 3.13
 - Jupyter Notebooks
 - NumPy, Pandas
 - Matplotlib/Seaborn (for visualization)
